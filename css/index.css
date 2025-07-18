@@ -19,3 +19,41 @@ nav a{
     position: relative;
     right: 35px;
 }
+
+img{
+    width: 700px; 
+    height: 400px;
+}
+
+#contenedor{
+    margin-top: 60px;
+    margin-left: -150px;
+    background-color: red;
+}
+
+#parrafo{
+    width: 300px;
+    position: absolute;
+    left: 500px;
+    bottom: 150px;
+    color: blanchedalmond;
+    font-size: x-large;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+button {
+  position: absolute;
+  bottom: 150px;
+  left: 500px;
+  border-radius: 8px;
+  background-color: #007BFF;
+  color: white;
+
+}
+
+button:hover{
+  background-color: rgb(18, 18, 56);       
+}
